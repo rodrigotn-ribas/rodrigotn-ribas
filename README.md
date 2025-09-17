@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Rodrigo Terra Nunes Ribas
 
-https://pixel-profile.vercel.app/api/github-stats?username=<rodrigotn-ribas>&theme=road_trip&pixelate_avatar=false
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigotn-ribas)](https://github.com/rodrigotn-ribas/github-readme-stats)
+
 🎓 Estudante de Ciência da Computação – atualmente no 6º período.
 💻 Interessado em desenvolvimento back-end, principalmente com c em Python.
 🤖 Entusiasta de Inteligência Artificial e apaixonado por tecnologia.
